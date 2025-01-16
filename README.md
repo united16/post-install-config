@@ -22,7 +22,7 @@ In this tutorial, I'll demonstrate the post-installation configuration of osTick
 
 <h4>Log-in</h4>
 <p>
-<img src="Credentials.jpg" height="20%" width="20%" alt="Credentials"/> <img src="link.jpg" height="25%" width="25%" alt="Link"/>
+<img src="Credentials.jpg" height="20%" width="20%" alt="Credentials"/> <img src="" height="25%" width="25%" alt=""/>
 </p>
 <p>
 Before starting the configuration process, locate the link (highlighted in red) that directs you to the Admin or Control Panel. Use this link to log in with the Admin account created in the Admin User section.
