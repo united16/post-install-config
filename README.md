@@ -32,20 +32,40 @@ Before starting the configuration process, locate the link (highlighted in red) 
 <h4>Configuring</h4>
 
 <p>
-We're going to kick this off by configuring Roles. A role is a permission that grants agents access.To configure roles, navigate to the Admin Panel → Agents → Roles, where you can manage the available access. Next, we move on to Departments. A department helps determine ticket visibility. For example, if someone in the Accounting department has a computer issue and needs tech support, they can simply refer to the Accounting Department when creating a ticket. This makes it easier for the agent to identify and handle the issue promptly. In the Departments section of the Admin Panel, tickets can be assigned to different departments. You can find this option by going to Admin Panel → Agents → Departments. Teams is used to group people from diffrent departments and in that group people may have diffrent tasks or permissions. We can configure Teams by going to Admin Panel → Agents → Teams. Next we'll configure a setting that lets users create ticket without them logining in. That can be done by going to Admin Panel → Settings → User Settings → Uncheck: Registration Required. Next we'll create an account for Agents(workers). We can locate that by going to: Admin Panel → Agents → Add New. 
-
+We're going to kick this off by configuring Roles. A role is a permission that grants agents access.To configure roles, navigate to the Admin Panel → Agents → Roles, where you can manage agents available access. Next, we move on to Departments. A department helps determine ticket visibility. For example, if someone in the Accounting department has a computer issue and needs tech support, they can simply refer to the Accounting Department when creating a ticket. This makes it easier for the agent to identify and handle the issue promptly. In the Departments section of the Admin Panel, tickets can be assigned to different departments. You can find this option by going to Admin Panel → Agents → Departments. Teams are used to group individuals from different departments, allowing them to collaborate on tasks. Within a team, members can have varying roles and permissions. To configure Teams, navigate to Admin Panel → Agents → Teams. Next, we’ll configure a setting that allows users to create tickets without requiring them to log in. This can be done by going to Admin Panel → Settings → User Settings and unchecking the option for Registration Required. Finally, we’ll create an account for agents (workers). To do this, go to Admin Panel → Agents → Add New.
 <br />
 
-<h4>Creating a Role, Department, Teams, and Users</h4>
+<h2>Creating a Role, Department, Teams and Users</h2>
 
+<h4>Roles<h4/> 
 <p>
+  Admin Panel → Agents → Roles 
+  <br />
+  
 <img src="" height="25%" width="25%" alt=""/>
-</p>
-<p>
-
+ 
 </p>
 <br />
 
+<h4>Department<h4/>
+<p>
 
+ 
+</p>
+<br />
 
-<!--Before beginning the configuration process,locate the link(highlited in red) to direct you to the Admin or Control pannel to log in with the Admin account that was created in the Admin User section.-->
+<h4>Teams<h4/>
+<p>
+
+ 
+</p>
+<br />
+
+<h4>Users<h4/>
+  <p>
+
+ 
+</p>
+<br />
+<!--Before beginning the configuration process,locate the link(highlited in red) to direct you to the Admin or Control pannel to log in with the Admin account that was created in the Admin User section.
+<img src="" height="25%" width="25%" alt=""/> -->
