@@ -61,8 +61,7 @@ Agents
 <img src="Roles/Cursor.jpg" height="15%" width="15%" alt="Cursor"/>
 <br /> <br />
 
-
-  Roles 
+Roles 
 <p>
  Once on the Roles page, click 'Add New Role'
 </p>
@@ -89,35 +88,24 @@ Success
 Role has been created and will appear at the top of the list. You can click on it to modify the permissions or change the name
 </p>
 <img src="Roles/Success.jpg" height="15%" width="15%" alt="Success"/>
-<br /> <br />
+<br /> <br /> 
 
 
+<h3>Department</h3> <br />
 
-<h3>Department<h3/>
-
+Admin Panel
 <p>
+ Click on 'Admin Panel'(circled in blue)
 </p>
-<img src="" height="15%" width="15%" alt=""/>
+<img src="Roles/Panel.jpg" height="15%" width="15%" alt= "Panel"/>
 <br /> <br />
 
-
-<h3>Teams<h3/>
-
+Agents
 <p>
+Hover the cursor over "Agents," then click on Department.
 </p>
-<img src="" height="15%" width="15%" alt=""/>
+<img src="" height="15%" width="15%" alt="Agent"/>
 <br /> <br />
-
-
-<h3>Users<h3/>
-
-<p>
-</p>
-<img src="" height="15%" width="15%" alt=""/>
-<br /> <br />
-
-
-
 
 
 
