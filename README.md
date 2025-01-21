@@ -51,6 +51,8 @@ We're going to kick this off by configuring Roles. A role is a permission that g
 
 <p>Then click 'Add Topic' and it will be successfully added.</p>
 
+<p>Follow the same steps to create 3-4 topics to use it for a practice in the Ticket Lifecycle. https://github.com/united16/ticket-lifecycle</p>
+
 <!-- <h2>Creating Role, Department, Teams and Users</h2>
 
 <h4>Roles<h4/> 
