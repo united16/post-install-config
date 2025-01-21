@@ -53,6 +53,12 @@ We're going to kick this off by configuring Roles. A role is a permission that g
 
 <p>Follow the same steps to create 3-4 topics to use it for a practice in the Ticket Lifecycle. https://github.com/united16/ticket-lifecycle</p>
 
+<h3>Example how to create a user:</h3>
+
+<p>To create a user/customer, I'll login as an Admin and navigate to Admin Panel → Users → Add new</p>
+
+<p><img src="" height="15%" width="15%" alt="" /> Then click 'Add new'</p>
+
 <!-- <h2>Creating Role, Department, Teams and Users</h2>
 
 <h4>Roles<h4/> 
