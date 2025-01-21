@@ -48,7 +48,6 @@ We're going to kick this off by configuring Roles. A role is a permission that g
 <p>Type: Public</p>
 <p>Parent Topic: Report a Problem</p>
 
-
 <p>Then click 'Add Topic' and it will be successfully added.</p>
 
 <p>Follow the same steps to create 3-4 topics to use it for a practice in the Ticket Lifecycle. https://github.com/united16/ticket-lifecycle</p>
@@ -57,7 +56,29 @@ We're going to kick this off by configuring Roles. A role is a permission that g
 
 <p>To create a user/customer, I'll login as an Admin and navigate to Admin Panel → Users → Add new</p>
 
-<p><img src="" height="15%" width="15%" alt="" /> Then click 'Add new'</p>
+<p><img src="New user.jpg" height="15%" width="15%" alt="New user" /></p>
+
+<p>Once getting to the page, fill out all the required fields. For this exmaple I'll use the following: </p>
+<p>Email-Address: oror@hotmail.com</p>
+<p>Full Name: Wayne Roro</p>
+
+<p>Then click 'Add User' and it will successfully create</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- <h2>Creating Role, Department, Teams and Users</h2>
 
