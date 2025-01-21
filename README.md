@@ -36,6 +36,21 @@ We're going to kick this off by configuring Roles. A role is a permission that g
 
 <br />
 
+
+<h3>Example how to create a Help Topic:</h3>
+<p>To create a Help Topic: Admin Panel → Manage → Help Topics → Add new Help Topics</p>
+
+<img src="New Help Topic.jpg" height="15%" width="15%" alt="Help Topic" />
+
+<p>Once reached the "Add New Help Topic" page, fill out all the required fields. For this exmaple I'll use the following:
+Topic: Computer Issue
+Status: Active
+Type: Public
+Parent Topic: Report a Problem
+</p>
+
+<p>Then click 'Add Topic' and it will be successfully added.</p>
+
 <!-- <h2>Creating Role, Department, Teams and Users</h2>
 
 <h4>Roles<h4/> 
