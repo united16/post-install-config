@@ -42,12 +42,12 @@ We're going to kick this off by configuring Roles. A role is a permission that g
 
 <img src="New Help Topic.jpg" height="25%" width="25%" alt="Help Topic" />
 
-<p>Once reached the "Add New Help Topic" page, fill out all the required fields. For this exmaple I'll use the following:
-Topic: Computer Issue
-Status: Active
-Type: Public
-Parent Topic: Report a Problem
-</p>
+<p>Once reached the "Add New Help Topic" page, fill out all the required fields. For this exmaple I'll use the following:</p>
+<p>Topic: Computer Issue</p>
+<p>Status: Active</p>
+<p>Type: Public</p>
+<p>Parent Topic: Report a Problem</p>
+
 
 <p>Then click 'Add Topic' and it will be successfully added.</p>
 
