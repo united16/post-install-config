@@ -52,6 +52,7 @@ We're going to kick this off by configuring Roles. A role is a permission that g
 
 <p>Follow the same steps to create 3-4 topics to use it for a practice in the Ticket Lifecycle. https://github.com/united16/ticket-lifecycle</p>
 
+
 <h3>Example how to create a user:</h3>
 
 <p>To create a user/customer, I'll login as an Admin and navigate to Admin Panel → Users → Add new</p>
@@ -64,6 +65,21 @@ We're going to kick this off by configuring Roles. A role is a permission that g
 
 <p>Then click 'Add User' and it will successfully create</p>
 
+
+<h3>Example how to create an Agent:</h3>
+
+<p>To create an Agent, I'll login as an Admin and navigate to Admin Panel → Agents → Add New Agent</p>
+
+<p><img src="New user.jpg" height="15%" width="15%" alt="New user" /></p>
+
+<p>Once getting to the page, fill out all the required fields. For this exmaple I'll use the following: </p>
+<p>Email-Address: jt16@yahoo.com</p>
+<p>Full Name: Jack Tommy</p>
+<p>Username: jt16 (click 'Set Password' to the right of username and uncheck the option to send a password reset email)+
+</p>
+<p>Assign the agent a department and role. Then click create.</p>
+
+<p>Then click 'Create' and it will successfully create the Agent</p>
 
 
 
