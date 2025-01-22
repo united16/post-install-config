@@ -77,7 +77,7 @@ We're going to kick this off by configuring Roles. A role is a permission that g
 <p>Full Name: Jack Tommy</p>
 <p>Username: jt16 (click 'Set Password' to the right of username and uncheck the option to send a password reset email)+
 </p>
-<p>Assign the agent a department and role. Then click create.</p>
+<p>Assign the agent a department and role</p>
 
 <p>Then click 'Create' and it will successfully create the Agent</p>
 
